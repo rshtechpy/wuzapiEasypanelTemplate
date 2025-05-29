@@ -71,7 +71,7 @@ Abre un issue o contáctanos. ¡Estamos para ayudarte! 🛠️
 
 ## 🧠 Créditos
 
-Proyecto basado en [WuzAPI](https://github.com/setupautomatizado/wuzapi-server) por [Setup Automatizado].
+Proyecto basado en [WuzAPI]([https://github.com/setupautomatizado/wuzapi-server](https://github.com/asternic/wuzapi/)
 
 ---
 
